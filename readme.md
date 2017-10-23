@@ -1,0 +1,1 @@
+The app is linked to SQL database and has 10 items to pick from. A customer can select an item and the quantity for purchase. If there is not enough of said item then they are told to edit their order and start the process over. If there is sufficient profuct then they get a total for the product. Screenshots illistrate this description. 
